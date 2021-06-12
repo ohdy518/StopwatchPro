@@ -14,8 +14,21 @@
   1. <Space>를 눌러 계속/일시정지
   2. <r>을 눌러 리셋
   3. <f>를 눌러 전체화면/취소
--끝-
+
+** stopwatch.py and app.ico is licensed under MIT License ** 
 
 ## English
 
 Simple-design stopwatch
+
+How to install:
+  1. Download Stopwatch.zip
+  2. Unzip (Password: codingPro01.Project, Recommends Bandizip)
+  3. Run stopwatch.py
+
+How to use:
+  1. Press <Space> to Resume/Stop
+  2. Press <r> to reset
+  3. Press <f> to fullscreen/unfullscreen
+  
+** stopwatch.py and app.ico is licensed under MIT License **
