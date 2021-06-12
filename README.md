@@ -14,6 +14,7 @@
   1. <Space>를 눌러 계속/일시정지
   2. <r>을 눌러 리셋
   3. <f>를 눌러 전체화면/취소
+  4. <q>를 눌러 종료
 
 ### stopwatch.py and app.ico is licensed under MIT License 
 
@@ -30,5 +31,6 @@ How to use:
   1. Press <Space> to Resume/Stop
   2. Press <r> to reset
   3. Press <f> to fullscreen/unfullscreen
+  4. Press <q> to quit
   
 ### stopwatch.py and app.ico is licensed under MIT License
