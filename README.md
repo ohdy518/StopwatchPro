@@ -15,7 +15,7 @@
   2. <r>을 눌러 리셋
   3. <f>를 눌러 전체화면/취소
 
-** stopwatch.py and app.ico is licensed under MIT License ** 
+### stopwatch.py and app.ico is licensed under MIT License 
 
 ## English
 
@@ -31,4 +31,4 @@ How to use:
   2. Press <r> to reset
   3. Press <f> to fullscreen/unfullscreen
   
-** stopwatch.py and app.ico is licensed under MIT License **
+### stopwatch.py and app.ico is licensed under MIT License
